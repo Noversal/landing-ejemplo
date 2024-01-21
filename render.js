@@ -1,4 +1,4 @@
-import Header from './layouts/Header'
+import Header from './layouts/header'
 import Footer from './layouts/Footer'
 import Main from './layouts/Main'
 
